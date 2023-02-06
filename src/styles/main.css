@@ -8,4 +8,10 @@ body {
   margin: 0;
   padding: 0;
   background-color: #2f44a1;
+}
+
+.header {
+  width: 100%;
+  padding: 2rem;
+  background-color: #a30c0c;
 }/*# sourceMappingURL=main.css.map */
